@@ -1,21 +1,27 @@
-# coloringbook
+# Coloringbook Tool Online (Free Script Codes)
 Online Coloring Book And Drawing Tool
 ### How to Build an Advanced Online Coloring Book App with File Uploads (JPG, PNG, & PDF)
 Interactive web applications that engage users creatively are highly valuable assets for educational portals, entertainment sites, and portfolio platforms. Creating a digital coloring book platform used to require complex backend architectures or heavy, outdated plugins. Today, modern HTML5 Canvas, native JavaScript APIs, and front-end PDF rendering libraries make it possible to build a fully capable, free online coloring application that runs completely in the user’s web browser.
+*
 
 **View Demo Coloring Book**: [Online Coloring Book](https://coloringfiles.com/color-online)
 
+"
 <img width="1333" height="965" alt="Image" src="https://github.com/user-attachments/assets/98155682-bdd0-4967-a007-b9749c444183" />
 <img width="1340" height="968" alt="Image" src="https://github.com/user-attachments/assets/f8ee12cb-1bc7-44a4-be58-cc21e96a0a3b" />
 
 The script below provides a comprehensive, production-ready solution. It features an integrated UI that allows users to upload their own JPG or PNG line art, and dynamically processes PDF pages into clear canvas templates. Equipped with a custom flood-fill algorithm that handles color blending smoothly and a built-in export mechanism, this code offers a strong framework for any web developer looking to launch a web-based drawing tool.
+
+
 **View Demo Coloring Book**: [Online Coloring Book](https://coloringfiles.com/color-online)
+
+
 ### The Complete Production Code (index.html)
 You can save the following code as an .html file (e.g., coloring-app.html) and open it directly in any modern browser. It loads the light-weight pdf.js library via CDN to handle PDF documents seamlessly on the client side.
 View more find [coloring pages](https://coloringfiles.com/ColoringPages) from coloringfiles.
 
 
-Codes//
+//Codes//
 
 
 <!DOCTYPE html>
